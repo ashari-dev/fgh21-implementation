@@ -14,4 +14,4 @@ function reverseWord(kalimat) {
   }
   console.log(hasil);
 }
-reverseWord("ibu pergi ke pasar");
+reverseWord("ibu ke pasar");

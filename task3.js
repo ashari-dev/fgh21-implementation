@@ -25,7 +25,7 @@ function FazzFood(harga, promo, jarak, pajak) {
         }
       }
     }
-    // Jika Promo yang dimasukkan DITRAKTIR60
+    // Jika Promo yang dimasukkan DITRAKTIR60,
     if (promo === "DITRAKTIR60") {
       if (harga >= 25000) {
         potongan = harga * (60 / 100);

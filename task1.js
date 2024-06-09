@@ -9,4 +9,4 @@ function cekPalindrome(kata) {
   }
 }
 
-cekPalindrome("malam");
+cekPalindrome("mamam");
